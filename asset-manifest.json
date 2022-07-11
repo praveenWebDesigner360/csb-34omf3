@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://praveenwebdesigner360.github.io/csb-34omf3/static/js/main.c7a9ba56.chunk.js",
+    "main.js.map": "https://praveenwebdesigner360.github.io/csb-34omf3/static/js/main.c7a9ba56.chunk.js.map",
+    "runtime-main.js": "https://praveenwebdesigner360.github.io/csb-34omf3/static/js/runtime-main.cd2093d4.js",
+    "runtime-main.js.map": "https://praveenwebdesigner360.github.io/csb-34omf3/static/js/runtime-main.cd2093d4.js.map",
+    "static/js/2.4f12ec96.chunk.js": "https://praveenwebdesigner360.github.io/csb-34omf3/static/js/2.4f12ec96.chunk.js",
+    "static/js/2.4f12ec96.chunk.js.map": "https://praveenwebdesigner360.github.io/csb-34omf3/static/js/2.4f12ec96.chunk.js.map",
+    "index.html": "https://praveenwebdesigner360.github.io/csb-34omf3/index.html",
+    "static/js/2.4f12ec96.chunk.js.LICENSE.txt": "https://praveenwebdesigner360.github.io/csb-34omf3/static/js/2.4f12ec96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd2093d4.js",
+    "static/js/2.4f12ec96.chunk.js",
+    "static/js/main.c7a9ba56.chunk.js"
+  ]
+}
